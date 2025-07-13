@@ -73,17 +73,6 @@ python bot.py
 
 ---
 
-## 🔐 Security Tip
-
-Make sure your `.env` file is in your `.gitignore` so your token is never exposed.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👑 Bot Presence
 
