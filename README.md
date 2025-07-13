@@ -11,7 +11,7 @@ This bot can play music in voice channels from YouTube using the `@play` command
 
 ## ✅ Features
 
-- 🔎 Play songs using `@play <song name or YouTube URL>`
+- 🔎 Play songs using `@play <YouTube URL>`
 - ⏸️ Pause and ▶️ resume music
 - ⏹️ Stop music and disconnect from the voice channel
 - 🎧 Automatically joins the user’s voice channel
